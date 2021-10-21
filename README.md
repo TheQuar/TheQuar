@@ -1,3 +1,4 @@
+🖐 Hello
    __      __         .__
   /  \    /  \  ____  |  |    ____    ____    _____    ____
   \   \/\/   /_/ __ \ |  |  _/ ___\  /  _ \  /     \ _/ __ \
@@ -11,7 +12,7 @@
               \_____\ \_/|____/ (____  / |__|
                      \__>            \/
 
-🖐🧑 Hello, I’m @TheQuar
+🧑 I’m @TheQuar
 
 <!---
 TheQuar/TheQuar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
