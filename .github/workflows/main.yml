@@ -15,3 +15,4 @@ jobs:
       - uses: TheQuar/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          
