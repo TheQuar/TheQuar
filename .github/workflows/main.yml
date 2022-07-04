@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: thequar/metrics@latest
+      - uses: TheQuar/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
